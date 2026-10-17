@@ -10,7 +10,5 @@
 
 ###
 
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/deadslights/deadslights/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<div data=importer="rbmk" align="center">
+<img src="https://markdown-rbmk.vercel.app/api/badge?username=deadslights&amp;mode=hybrid&amp;style=cherenkov&amp;cell=round&amp;stats=total,streak,languages&amp;langs=8&amp;forks=true" width="850" alt="markdown-RBMK reactor core" />
